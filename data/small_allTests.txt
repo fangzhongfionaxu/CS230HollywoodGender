@@ -1,0 +1,4 @@
+movie,bechdel,peirce,landau,feldman,villareal,hagen,ko,villarobos,waithe,koeze_dottle,uphold,white,rees-davies
+Alpha,0,0,0,1,0,0,0,1,0,0,1,1,1
+Beta,0,0,0,1,0,0,0,1,0,0,1,1,1
+Gamma,0,0,0,1,0,0,0,1,0,0,1,1,1

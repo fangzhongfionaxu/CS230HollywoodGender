@@ -1,0 +1,9 @@
+"MOVIE","ACTOR","CHARACTER_NAME","TYPE","BILLING","GENDER"
+"Alpha","Tyler Perry","Madea/Joe/Brian","Leading","1","Male"
+"Alpha","Stella","Madea/Joe/Brian","Leading","1","Male"
+
+"Beta","Cassi Davis","Aunt Bam","Supporting","2","Female"
+"Beta","Patrice Lovely","Hattie","Supporting","3","Female"
+"Beta","Takis","Aunt Bam","Supporting","2","Female"
+"Gamma","Tyler Perry","Madea/Joe/Brian","Leading","1","Male"
+"Gamma","Cassi Davis","Aunt Bam","Supporting","2","Female"
